@@ -1,0 +1,21 @@
+{
+  "workflow": "bulk_transcriptomics",
+  "title": "Bulk transcriptomics",
+  "run_time_utc": "2026-09-03T00:00:00+00:00",
+  "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "input": "examples\\input.csv",
+  "input_sha256": "789cd46fca8797ce2cc64a6d99319042c16dc546e739e56722671414c2e87520",
+  "config": "config\\workflow.json",
+  "config_sha256": "29f2943ef0750b915f185e5f662b7e8c628830cc9d57c57f7180272e3e4b4819",
+  "result": "expected\\results.csv",
+  "result_sha256": "8933657ec80aa932038606a82a6a64efcdc86f0f7191d2dd5c4b6fa047e1b268",
+  "row_count": 3,
+  "palette": {
+    "reference": "#1F77B4",
+    "active": "#D62728",
+    "positive": "#009E73",
+    "warning": "#D55E00",
+    "neutral": "#9AA5AA"
+  }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<rect width="100%" height="100%" fill="white"/>
+<text x="75" y="34" font-family="Liberation Sans,Arial" font-size="18" font-weight="bold">Bulk transcriptomics</text>
+<line x1="450.0" x2="450.0" y1="55" y2="270" stroke="#666666" stroke-width="1"/>
+<text x="75" y="86" font-family="Liberation Sans,Arial" font-size="11">GENE1</text>
+<rect x="450.0" y="72" width="355.0" height="18" fill="#D62728" opacity="0.88"/>
+<text x="810.0" y="86" font-family="Liberation Sans,Arial" font-size="10">0.729</text>
+<text x="75" y="120" font-family="Liberation Sans,Arial" font-size="11">GENE2</text>
+<rect x="412.8837131436272" y="106" width="37.11628685637284" height="18" fill="#1F77B4" opacity="0.88"/>
+<text x="367.8837131436272" y="120" font-family="Liberation Sans,Arial" font-size="10">-0.0762</text>
+<text x="75" y="154" font-family="Liberation Sans,Arial" font-size="11">GENE3</text>
+<rect x="450.0" y="140" width="119.01208385420884" height="18" fill="#D62728" opacity="0.88"/>
+<text x="574.0120838542089" y="154" font-family="Liberation Sans,Arial" font-size="10">0.244</text>
+</svg>

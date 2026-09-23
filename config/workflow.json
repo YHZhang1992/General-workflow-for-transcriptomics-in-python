@@ -1,0 +1,7 @@
+{
+  "profile": "bulk_transcriptomics",
+  "title": "Bulk transcriptomics",
+  "reference": "Control",
+  "active": "Treatment",
+  "seed": 20260903
+}

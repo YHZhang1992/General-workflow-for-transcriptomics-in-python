@@ -1,0 +1,4 @@
+gene,reference,active,n_reference,n_active,mean_reference,mean_active,estimate,p_value,adjusted_p_value
+GENE1,Control,Treatment,6,6,5.361697,6.090438,0.728741,2.1819029972925294e-19,6.545708991877588e-19
+GENE2,Control,Treatment,6,6,6.302419,6.226227,-0.076192,0.22921496821871173,0.22921496821871176
+GENE3,Control,Treatment,6,6,4.184976,4.429283,0.244307,0.19751615690373292,0.22921496821871176
